@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 25, 2021 at 09:27 AM
+-- Generation Time: Nov 25, 2021 at 10:12 AM
 -- Server version: 10.4.21-MariaDB
 -- PHP Version: 7.3.31
 
@@ -119,7 +119,18 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`empid`, `password`, `created_at`, `email`) VALUES
-(2033978, 'kautuk', '2021-11-22 22:58:07', 'ks@ims.com');
+(2033692, 'sudheshna', '2021-11-25 14:33:03', 'gs@ims.com'),
+(2033696, 'neha', '2021-11-25 14:41:47', 'vn@ims.com'),
+(2033701, 'teja', '2021-11-25 14:41:47', 'ktr@ims.com'),
+(2033929, 'olisha', '2021-11-25 14:41:47', 'ok@ims.com'),
+(2033978, 'kautuk', '2021-11-22 22:58:07', 'ks@ims.com'),
+(2033989, 'manoj', '2021-11-25 14:41:47', 'mkp@ims.com'),
+(2033999, 'sandip', '2021-11-25 14:41:47', 'ss@ims.com'),
+(2034024, 'harshini', '2021-11-25 14:41:47', 'ha@ims.com'),
+(2034026, 'pavan', '2021-11-25 14:41:47', 'pkrc@ims.com'),
+(2034035, 'karthika', '2021-11-25 14:41:47', 'km@ims.com'),
+(2034051, 'sivakavi', '2021-11-25 14:41:47', 'sb@ims.com'),
+(2034203, 'mrinal', '2021-11-25 14:41:47', 'mm@ims.com');
 
 --
 -- Indexes for dumped tables
